@@ -1,0 +1,14 @@
+C:\Users\s38117\qwet1510\bin\Debug\net10.0\qwet1510.exe
+C:\Users\s38117\qwet1510\bin\Debug\net10.0\qwet1510.deps.json
+C:\Users\s38117\qwet1510\bin\Debug\net10.0\qwet1510.runtimeconfig.json
+C:\Users\s38117\qwet1510\bin\Debug\net10.0\qwet1510.dll
+C:\Users\s38117\qwet1510\bin\Debug\net10.0\qwet1510.pdb
+C:\Users\s38117\qwet1510\obj\Debug\net10.0\qwet1510.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s38117\qwet1510\obj\Debug\net10.0\qwet1510.AssemblyInfoInputs.cache
+C:\Users\s38117\qwet1510\obj\Debug\net10.0\qwet1510.AssemblyInfo.cs
+C:\Users\s38117\qwet1510\obj\Debug\net10.0\qwet1510.csproj.CoreCompileInputs.cache
+C:\Users\s38117\qwet1510\obj\Debug\net10.0\qwet1510.dll
+C:\Users\s38117\qwet1510\obj\Debug\net10.0\refint\qwet1510.dll
+C:\Users\s38117\qwet1510\obj\Debug\net10.0\qwet1510.pdb
+C:\Users\s38117\qwet1510\obj\Debug\net10.0\qwet1510.genruntimeconfig.cache
+C:\Users\s38117\qwet1510\obj\Debug\net10.0\ref\qwet1510.dll
